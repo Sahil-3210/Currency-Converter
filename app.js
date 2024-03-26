@@ -1,4 +1,4 @@
-const BASE_URL = "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/eur.json"
+const BASE_URL = "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1";
 
 const dropdowns = document.querySelectorAll(".dropdown select");
 const btn = document.querySelector("#rateBtn");
